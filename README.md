@@ -1,2 +1,2 @@
-# NeuRL-RMW.github.io
-Repository to host the website for "Neural Representation Learning for Robot Manipulation Workshop"
+# pretraining4robotics
+Repository to host the website for "Pretraining for Robotics Workshops"
