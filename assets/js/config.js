@@ -1,5 +1,5 @@
-const project_name = `Pretraining for Robotics Workshop (PT4R)`
-const proj_small_caps = `<span class="small-caps">NeuRL-RMW</span>: `
+const project_name = `Pretraining for Robotics Workshop`
+const proj_small_caps = `<span class="small-caps">PT4R</span>: `
 const conference_details = ['ICRA 2024', 'https://2024.ieee-icra.org/', 'Muse 5', 'assets/images/icra_logo.png']
 const workshop_date = `TBD`
 
