@@ -112,34 +112,31 @@
           <h2 class="title is-3">Overview</h2>
           <div class="content has-text-justified">
             <p>
-              Representations of scenes and objects play a crucial role in robot manipulation. Traditional ways
-              represent scenes and objects using explicit geometric primitives, such as 3D meshes, 3D point clouds, 3D
-              voxels, etc. These geometric representations have been widely explored in perception, grasp planning and
-              motion planning in manipulation. However, they still have difficulties in handling challenging
-              manipulation scenarios involving unseen objects, articulated objects, or deformable objects. Recently,
-              neural representations of scenes and objects, such as neural radiance fields and deep signed distance
-              fields, have introduced, which demonstrate superior performance on visual rendering and shape
-              reconstruction tasks. Ideally, neural representations can handle arbitrary scenes and objects by encoding
-              them into neural networks. However, how to learn these representations from data and how to utilize them
-              for robot manipulation remain as open questions.
-              This workshop will represent a great opportunity to bring together experts who are exploring neural
-              representations for robot manipulation, and provide an arena for stimulating discussion and debate on
-              neural representation learning for robot manipulation. Specific questions we aim to address include:
+Recent advances in machine learning have started a paradigm shift from task-specific models towards large general-purpose architectures. In the domains of language and vision, we see large models such as GPT4, BERT, BLIP, CLIP, SAM, VILD, LLaMa, DINOv2, VPT and others that have opened avenues towards solving several applications and continue to cause an explosion of new ideas and possibilities. What does it take to bring the same level of advancements to the field of robotics?
+
+This workshop’s goal is to analyze how we can scale robotics towards the complexity of the real world by leveraging pre-trained models. We will discuss how to apply the concept of large-scale pretraining to robotics, so as to enable models to learn how to process diverse, multimodal perception inputs (vision, 3D geometry, touch, audio), connect perception with action, generalize across scenarios and form factors, and deal with the intrinsic challenges of robotics systems (expensive data collection, safety constraints, non-iid data, compute budgets).
+
             <ul>
               <li>
-                What neural representations are useful for robot manipulation?
+                How can we compose existing pre-trained foundation models to solve complex tasks in robotics?
               </li>
               <li>
-                What should a neural representation capture (geometry, visual appearance, dynamics, etc.) for robot
-                manipulation?
+                How do we build pre-trained reusable feature representations from complex inputs for robotics?
               </li>
               <li>
-                How to learn and use neural representations for robot manipulation?
+                How do we learn cross-embodied world models that combine perception and actions?
               </li>
               <li>
-                How to benchmark the progress in neural representation learning for robot manipulation?
+                How can we combine pre-trained representations from multiple modalities such as language, vision, and geometry into robotics systems?
+              </li>
+              <li>
+                How do we efficiently fine-tune pre-trained models for new downstream tasks?
+              </li>
+              <li>
+                How best to deal with the specificities of robotics such as expensive data collection and safety constraints?
               </li>
             </ul>
+            We hope to connect researchers from the communities of deep learning, representation learning, classical robotics, and to induce collaborations in this exciting new domain, while providing a platform to discuss recent developments, challenges and tradeoffs.
             </p>
           </div>
         </div>
