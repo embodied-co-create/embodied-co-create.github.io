@@ -5,12 +5,12 @@ const workshop_date = `TBD`
 
 const talk_speaker_details = [
   ['Georgia Chalvatzaki', './assets/images/talks/Georgia-Chalvatzaki.jpg', 'Professor', 'TU Darmstadt', 'https://gchal.github.io'],
-  ['Dieter Fox', './assets/images/talks/dieter_fox.jpg', 'Professor', 'University of Washington / NVIDIA', 'https://homes.cs.washington.edu/~fox/'],
-  ['Karol Hausman', './assets/images/talks/karol_hausman.jpg', 'Research Scientis', 'Google Deepmind', 'https://karolhausman.github.io/'],
-  ['Jitendra Malik', './assets/images/talks/jitendra_malik.jpg', 'Professor', 'UC Berkeley', 'https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html'],
-  ['Animesh Garg', './assets/images/talks/animesh.png', 'Assistant Professor', 'Georgia Tech', 'https://animesh.garg.tech/'],
+  ['Dieter Fox', './assets/images/talks/dieter_fox.jpeg', 'Professor', 'University of Washington / NVIDIA', 'https://homes.cs.washington.edu/~fox/'],
+  ['Karol Hausman', './assets/images/talks/karol_hausman.jpeg', 'Research Scientis', 'Google Deepmind', 'https://karolhausman.github.io/'],
+  ['Jitendra Malik', './assets/images/talks/jitendra_malik.jpeg', 'Professor', 'UC Berkeley', 'https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html'],
+  ['Animesh Garg', './assets/images/talks/animesh.jpeg', 'Assistant Professor', 'Georgia Tech', 'https://animesh.garg.tech/'],
   ['Lerel Pinto', './assets/images/talks/lerel_pinto.jpeg', 'Assistant Professor', 'NYU Courant', 'https://www.lerrelpinto.com/'],
-  ['Chelsea Finn', './assets/images/talks/chelsea_finn.jpg', 'Assistant Professor', 'Stanford University', 'https://ai.stanford.edu/~cbfinn/']
+  ['Chelsea Finn', './assets/images/talks/chelsea_finn.jpeg', 'Assistant Professor', 'Stanford University', 'https://ai.stanford.edu/~cbfinn/']
 ]
 
 const organizers_details = [
