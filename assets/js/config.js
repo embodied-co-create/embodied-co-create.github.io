@@ -4,12 +4,13 @@ const conference_details = ['ICRA 2024', 'https://2024.ieee-icra.org/', 'TBD', '
 const workshop_date = `TBD`
 
 const talk_speaker_details = [
-  //['Shuran Song', './assets/images/talks/shuran_song.jpg', 'Assistant Professor', 'Stanford University', 'https://shurans.github.io/'],
-  //['David Held', './assets/images/talks/david_held.jpg', 'Associate Professor', 'Carnegie Mellon University', 'http://davheld.github.io'],
-  //['Georgia Chalvatzaki', './assets/images/talks/Georgia-Chalvatzaki.jpg', 'Assistant Professor', 'TU Darmstadt', 'https://gchal.github.io'],
-  //['Pete Florence', './assets/images/talks/pete-florence.png', 'Senior Research Scientist', 'Google Deepmind', 'https://www.peteflorence.com'],
-  //['Chris Paxton', './assets/images/talks/chris-paxton.jpeg', 'Research Scientist', 'Meta AI', 'https://cpaxton.github.io'],
-  //['Chad Jenkins', './assets/images/talks/chad_jenkins.jpg', 'Professor', 'University of Michigan', 'https://robotics.umich.edu/profile/chad-jenkins'],
+  ['Georgia Chalvatzaki', './assets/images/talks/Georgia-Chalvatzaki.jpg', 'Professor', 'TU Darmstadt', 'https://gchal.github.io']
+  ['Dieter Fox', './assets/images/talks/dieter_fox.jpg', 'Professor', 'University of Washington / NVIDIA', 'https://homes.cs.washington.edu/~fox/']
+  ['Karol Hausman', './assets/images/talks/karol_hausman.jpg', 'Research Scientis', 'Google Deepmind', 'https://karolhausman.github.io/'],
+  ['Jitendra Malik', './assets/images/talks/jitendra_malik.jpg', 'Professor', 'UC Berkeley', 'https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html'],
+  ['Animesh Garg', './assets/images/talks/animesh.png', 'Assistant Professor', 'Georgia Tech', 'https://animesh.garg.tech/'],
+  ['Lerel Pinto', './assets/images/talks/lerel_pinto.jpeg', 'Assistant Professor', 'NYU Courant', 'https://www.lerrelpinto.com/'],
+  ['Chelsea Finn', './assets/images/talks/chelsea_finn.jpg', 'Assistant Professor', 'Stanford University', 'https://ai.stanford.edu/~cbfinn/'],
 ]
 
 const organizers_details = [
