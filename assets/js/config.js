@@ -14,14 +14,19 @@ const talk_speaker_details = [
 ]
 
 const organizers_details = [
-  //['Karthik Desingh', 'assets/images/organizers/karthik_desingh.jpeg', 'Assistant Professor', 'University of Minnesota, Twin Cities', 'https://karthikdesingh.com'],
-  //['Changhyun Choi', 'assets/images/organizers/Changhyun_Choi.jpg', 'Assistant Professor', 'University of Minnesota, Twin Cities', 'https://cse.umn.edu/ece/changhyun-choi'],
-  //['Yu Xiang', 'assets/images/organizers/Yu_Xiang.jpg', 'Assistant Professor', 'The University of Texas at Dallas', 'https://yuxng.github.io'],
-  //['Jishnu Jaykumar Padalunkal', 'assets/images/organizers/Jishnu-Jaykumar-Padalunkal.jpg', 'PhD Student', 'The University of Texas at Dallas', 'https://jishnujayakumar.github.io'],
-  //['Ninad Khargonkar', 'assets/images/organizers/Ninad-Khargonkar.jpg', 'PhD Student', 'The University of Texas at Dallas', 'https://kninad.github.io'],
-  //['Sai Haneesh Allu', 'assets/images/organizers/Sai-Haneesh-Allu.png', 'PhD Student', 'The University of Texas at Dallas', 'https://www.linkedin.com/in/sai-haneesh-allu'],
-  //['Alireza Rezazadeh', 'assets/images/organizers/Alireza-Rezazadeh.png', 'PhD Student', 'University of Minnesota, Twin Cities', 'https://www.alireza.page'],
+  //['Antonio Loquercio', 'assets/images/organizers/antonio.jpeg', 'PostDoc', 'University of Minnesota, Twin Cities', 'https://karthikdesingh.com'],
+  //['Andrew Melnik', 'assets/images/organizers/andrew.jpg', 'Assistant Professor', 'University of Minnesota, Twin Cities', 'https://cse.umn.edu/ece/changhyun-choi'],
+  //['Jonathan Francis', 'assets/images/organizers/jonathan.jpg', 'Assistant Professor', 'The University of Texas at Dallas', 'https://yuxng.github.io'],
+  //['Krishan Rana', 'assets/images/organizers/krishan.jpg', 'PhD Student', 'The University of Texas at Dallas', 'https://jishnujayakumar.github.io'],
+  //['Niko Sünderhauf', 'assets/images/organizers/niko.jpg', 'PhD Student', 'The University of Texas at Dallas', 'https://kninad.github.io'],
+  //['Vidhi Jain', 'assets/images/organizers/vidhi.png', 'PhD Student', 'The University of Texas at Dallas', 'https://www.linkedin.com/in/sai-haneesh-allu'],
+  //['Raven Huang', 'assets/images/organizers/ravan.png', 'PhD Student', 'University of Minnesota, Twin Cities', 'https://www.alireza.page'],
+  //['Valts Blukis', 'assets/images/organizers/valts.png', 'PhD Student', 'University of Minnesota, Twin Cities', 'https://www.alireza.page'],
 ]
+
+
+
+
 
 const accepted_presentations = [
   ["FullName-1", "#", "https://bulma.io/images/placeholders/128x128.png", "Designation", "Affiliation", "Presentation Title", "Spotlight"],
