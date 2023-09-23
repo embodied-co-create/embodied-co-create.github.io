@@ -17,10 +17,10 @@ const organizers_details = [
   ['Antonio Loquercio', 'assets/images/organizers/antonio.jpeg', 'Postdoctoral Researcher', 'UC Berkeley', 'https://antonilo.github.io/'],
   ['Andrew Melnik', 'assets/images/organizers/andrew.jpeg', 'Assistant Professor', 'Bielefeld University', 'https://ni.www.techfak.uni-bielefeld.de/people/anmelnik'],
   ['Jonathan Francis', 'assets/images/organizers/jonathan.jpeg', 'Senior Research Scientist', 'Bosch Center for AI', 'https://scholar.google.com/citations?user=7CLS0LwAAAAJ'],
-  ['Krishan Rana', 'assets/images/organizers/krishan.jpeg', 'Postdoctoral Researcher', 'QUT Centre for Robotics', 'https://krishanrana.github.io'],
+  ['Krishan Rana', 'assets/images/organizers/krishan.jpg', 'Postdoctoral Researcher', 'QUT Centre for Robotics', 'https://krishanrana.github.io'],
   ['Vidhi Jain', 'assets/images/organizers/vidhi.jpeg', 'PhD Student', 'Carnegie Mellon University', 'https://vidhijain.github.io/'],
   ['Raven Huang', 'assets/images/organizers/ravan.jpeg', 'PhD Student', 'UC Berkeley', 'https://qingh097.github.io/'],
-  ['Valts Blukis', 'assets/images/organizers/valts.jpeg', 'Research Scientist', 'NVIDIA', 'https://scholar.google.com/citations?user=i9-GzNYAAAAJ&hl=en&oi=ao'],
+  ['Valts Blukis', 'assets/images/organizers/valts.png', 'Research Scientist', 'NVIDIA', 'https://scholar.google.com/citations?user=i9-GzNYAAAAJ&hl=en&oi=ao'],
   ['Niko Sünderhauf', 'assets/images/organizers/niko.jpeg', 'Professor', 'QUT Centre for Robotics', 'https://nikosuenderhauf.github.io/'],
 ]
 
