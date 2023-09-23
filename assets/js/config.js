@@ -14,19 +14,15 @@ const talk_speaker_details = [
 ]
 
 const organizers_details = [
-  //['Antonio Loquercio', 'assets/images/organizers/antonio.jpeg', 'PostDoc', 'University of Minnesota, Twin Cities', 'https://karthikdesingh.com'],
-  //['Andrew Melnik', 'assets/images/organizers/andrew.jpg', 'Assistant Professor', 'University of Minnesota, Twin Cities', 'https://cse.umn.edu/ece/changhyun-choi'],
-  //['Jonathan Francis', 'assets/images/organizers/jonathan.jpg', 'Assistant Professor', 'The University of Texas at Dallas', 'https://yuxng.github.io'],
-  //['Krishan Rana', 'assets/images/organizers/krishan.jpg', 'PhD Student', 'The University of Texas at Dallas', 'https://jishnujayakumar.github.io'],
-  //['Niko Sünderhauf', 'assets/images/organizers/niko.jpg', 'PhD Student', 'The University of Texas at Dallas', 'https://kninad.github.io'],
-  //['Vidhi Jain', 'assets/images/organizers/vidhi.png', 'PhD Student', 'The University of Texas at Dallas', 'https://www.linkedin.com/in/sai-haneesh-allu'],
-  //['Raven Huang', 'assets/images/organizers/ravan.png', 'PhD Student', 'University of Minnesota, Twin Cities', 'https://www.alireza.page'],
-  //['Valts Blukis', 'assets/images/organizers/valts.png', 'PhD Student', 'University of Minnesota, Twin Cities', 'https://www.alireza.page'],
+  ['Antonio Loquercio', 'assets/images/organizers/antonio.jpeg', 'Postdoctoral Researcher', 'UC Berkeley', 'https://antonilo.github.io/'],
+  ['Andrew Melnik', 'assets/images/organizers/andrew.jpeg', 'Assistant Professor', 'Bielefeld University', 'https://ni.www.techfak.uni-bielefeld.de/people/anmelnik'],
+  ['Jonathan Francis', 'assets/images/organizers/jonathan.jpeg', 'Senior Research Scientist', 'Bosch Center for AI', 'https://scholar.google.com/citations?user=7CLS0LwAAAAJ'],
+  ['Krishan Rana', 'assets/images/organizers/krishan.jpeg', 'Postdoctoral Researcher', 'QUT Centre for Robotics', 'https://krishanrana.github.io'],
+  ['Vidhi Jain', 'assets/images/organizers/vidhi.jpeg', 'PhD Student', 'Carnegie Mellon University', 'https://vidhijain.github.io/'],
+  ['Raven Huang', 'assets/images/organizers/ravan.jpeg', 'PhD Student', 'UC Berkeley', 'https://qingh097.github.io/'],
+  ['Valts Blukis', 'assets/images/organizers/valts.jpeg', 'Research Scientist', 'NVIDIA', 'https://scholar.google.com/citations?user=i9-GzNYAAAAJ&hl=en&oi=ao'],
+  ['Niko Sünderhauf', 'assets/images/organizers/niko.jpeg', 'Professor', 'QUT Centre for Robotics', 'https://nikosuenderhauf.github.io/'],
 ]
-
-
-
-
 
 const accepted_presentations = [
   ["FullName-1", "#", "https://bulma.io/images/placeholders/128x128.png", "Designation", "Affiliation", "Presentation Title", "Spotlight"],
