@@ -88,12 +88,12 @@ $(document).ready(function () {
   $('#workshop-date').html(workshop_date)
   
   // talk content
-  populate_people_html('talk-content1', talk_speaker_details.slice(0, 3))
-  populate_people_html('talk-content2', talk_speaker_details.slice(3, ))
+  populate_people_html('talk-content1', talk_speaker_details.slice(0, 4))
+  populate_people_html('talk-content2', talk_speaker_details.slice(4, ))
 
   // organizers content
-  populate_people_html('organizer-content-1', organizers_details.slice(0, 3))
-  populate_people_html('organizer-content-2', organizers_details.slice(3, ))
+  populate_people_html('organizer-content-1', organizers_details.slice(0, 4))
+  populate_people_html('organizer-content-2', organizers_details.slice(4, ))
 
   // accepted presentations
   populate_accepted_presentations("ppt-list", accepted_presentations)
