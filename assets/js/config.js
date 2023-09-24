@@ -7,6 +7,7 @@ const talk_speaker_details = [
   ['Georgia Chalvatzaki', './assets/images/talks/Georgia-Chalvatzaki.jpg', 'Professor', 'TU Darmstadt', 'https://gchal.github.io'],
   ['Dieter Fox', './assets/images/talks/dieter_fox.jpeg', 'Professor', 'University of Washington / NVIDIA', 'https://homes.cs.washington.edu/~fox/'],
   ['Karol Hausman', './assets/images/talks/karol_hausman.jpeg', 'Research Scientis', 'Google Deepmind', 'https://karolhausman.github.io/'],
+  ['Shuran Song', './assets/images/talks/shuran_song.jpg', 'Assistant Professor', 'Stanford University,', 'https://shurans.github.io/'],
   ['Jitendra Malik', './assets/images/talks/jitendra_malik.jpeg', 'Professor', 'UC Berkeley', 'https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html'],
   ['Animesh Garg', './assets/images/talks/animesh.jpeg', 'Assistant Professor', 'Georgia Tech', 'https://animesh.garg.tech/'],
   ['Lerel Pinto', './assets/images/talks/lerel_pinto.jpeg', 'Assistant Professor', 'NYU Courant', 'https://www.lerrelpinto.com/'],
