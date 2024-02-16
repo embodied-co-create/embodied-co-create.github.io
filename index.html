@@ -117,7 +117,7 @@
 					<li>Methods for grounding distilled foundation model representations with additional modalities (e.g., haptics, audio, IMU signals, joint torques, etc.)</li>
 					<li>Novel neural architectures exploring multimodal prompt mechanisms</li>
 					<li>Efforts to leverage foundation models for robotics tasks; efforts to create robotics-specific foundation models</li>
-					<li>Paradigms for data-efficient concept learning, e.g., learning from few-shot demonstrations, interactive perception, co-simulation, etc.</li>
+					<li>Paradigms for data-efficient concept learning, e.g., learning generalizable skills from few-shot demonstrations, interactive perception, co-simulation, etc.</li>
 				</ul>
 				
 				</span>
@@ -414,6 +414,8 @@
 				<li style="padding-bottom: 10px"> <b> What are the best ways to combine explicit and implicit scene context representations, for robot decision-making and control in real-world settings? </b> Examples of explicit representations are from structured resources like scene graphs, navigation graphs, and topological maps; implicit representations may be obtained from neural function approximation, e.g., through self-supervision on relevant pre-text tasks. For deep semantic understanding, methods must harness the best of both types.
 			 </li>
 				<li style="padding-bottom: 10px"> <b> How to leverage computationally-expensive resources (e.g., foundation models) for inference on resource-constrained robotics platforms? </b> Here, we may consider novel computational paradigms in robotics application (e.g., remote cloud compute for local action-generation) and/or effective algorithmic approaches (e.g., low-frequency hierarchical planning using foundation models, coupled with higher-frequency action-generation), for efficient reasoning.
+					</li>
+				<li style="padding-bottom: 10px"> <b> How to ensure safe decision-making while using pre-trained multimodal foundation models in novel and dynamic environments? </b> Autonomous systems deployed in the wild are naturally unsafe to themselves and others. Efforts for imposing safety constraints during online learning have been met with significant challenges, e.g., due to (i) the complexity and unpredictable nature of the environments in which the autonomous systems are deployed; (ii) the large state dimension in complex systems; and (iii) the inability for methods to accommodate the specification of constraints at higher levels of semantic abstraction.
 					</li>
 			</ol>
 					We welcome research papers of 4-8 pages, not including references or appendix.
