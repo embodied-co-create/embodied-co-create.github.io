@@ -1,2 +1,2 @@
-# Semantic Reasoning and Goal Understanding in Robotics (SemRob)
-Repository to host the website for "Semantic Reasoning and Goal Understanding in Robotics (SemRob)"
+# Embodied Co-Creation: Robotic Tools That Make and Perform Arts
+Repository to host the website for "Embodied Co-Creation: Robotic Tools That Make and Perform Arts" workshop at RSS 2025
